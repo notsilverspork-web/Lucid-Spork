@@ -84,7 +84,7 @@ make it so it doesnt wake you up but it is not too quiet that you wont hear it
 ### Step 4: Bedtime Activation
 When your eyes get heavy and you're ready to drift off, click:
 ```text
-[ 💤 I'M GOING TO SLEEP ]
+[ 💤 I'M GOING TO SLEEP ]https://github.com/notsilverspork-web/Lucid-Spork/blob/main/readme.md
 ```
 
 ---

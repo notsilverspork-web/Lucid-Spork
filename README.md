@@ -94,7 +94,8 @@ When your eyes get heavy and you're ready to drift off, click:
 ## 🗺️ Upcoming Features
 
 - [ ⌚] **Smart Wearable Integration**: Optional BLE hooks for Apple Watch / Whoop / Fitbit to trigger based on live heart-rate variability (HRV) rather than pure timing.
-
+ [ 😭] **Multiplayer Dreams**: Just imagine u and ur bro dreaming together
+- [🔥📷 ] **4K Dream Recording**: using advanced text to video models to turn ur dream into  a 4k video.
 ---
 
 ## ⚠️ Disclaimer & Safety
